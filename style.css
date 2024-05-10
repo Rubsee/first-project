@@ -4,12 +4,16 @@ body {
     color: #515076;
 }
 
-.main {
-    background-image: url("image/bg.png");
-    background-repeat: no-repeat;
+.container {
     margin: 0 auto;
     width: 1110px;
+
+}
+
+.card__bg {
     padding-top: 220px;
+    background-image: url("image/bg.png");
+    background-repeat: no-repeat;
 }
 
 .title {
