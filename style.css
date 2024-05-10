@@ -2,8 +2,9 @@ body {
     font-family: Arial, sans-serif;
     font-size: 13px;
     color: #515076;
-    font-weight: 400;
-    margin: 0px 85px;
+    background-image: url("image/bg.png");
+    background-repeat: no-repeat;
+    background-position: 25% 0%;
 }
 
 .title {
@@ -17,6 +18,17 @@ body {
     font-size: 20px;
     line-height: 27px;
     margin: 5px 0;
+}
+
+.card-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 45px;
+    margin: 0 auto;
 }
 
 .card {
