@@ -1,0 +1,15 @@
+.compound {
+    list-style: none;
+}
+
+.card__compound {
+    color: #515076;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 400;
+}
+
+.compound-list {
+    margin-bottom: 25px;
+    padding-left: 13px;
+}
