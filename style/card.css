@@ -49,6 +49,10 @@
     margin-bottom: 15px;
 }
 
+.card__compound {
+    margin-bottom: 25px;
+}
+
 .card__price {
     display: flex;
     justify-content: space-between;
